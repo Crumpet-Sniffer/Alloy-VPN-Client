@@ -10,8 +10,11 @@ Cloudflare Warp
 Tailscale
 
 I plan to add support for in the future:
-Mullvad
-Proton
+
+Mullvad VPN
+
+Proton VPN
+
 Just because it's not in this list doesn't mean I don't want to/can't add it. If you can let me know, I can try to add support for it!
 
 No GUI yet
