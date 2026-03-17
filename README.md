@@ -20,4 +20,4 @@ Just because it's not in this list doesn't mean I don't want to/can't add it. If
 No GUI yet
 I know I know, the point was a GUI... but this is better than nothing and it's pretty easy to use. I will add a GUI in an update soon...
 
-For any enquiries regarding Alloy, you can reach me on my discord @crumpet_
+For any enquiries regarding Alloy, you can reach me on my discord @crumpet_sniffer
